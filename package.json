@@ -19,14 +19,12 @@
   "homepage": "https://github.com/zsnydr/react-webpack-boilerplate#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
-    "bootstrap-sass": "^3.3.7",
     "css-loader": "^0.26.1",
     "express": "^4.14.0",
-    "node-sass": "^4.1.1",
     "react": "^15.4.2",
-    "react-bootstrap": "^0.30.7",
     "react-dom": "^15.4.2",
-    "react-router": "^3.0.0",
+    "react-router": "^4.0.0-beta.8",
+    "react-router-dom": "^4.0.0-beta.8",
     "sass-loader": "^4.1.1",
     "style-loader": "^0.13.1",
     "webpack": "^1.14.0"
