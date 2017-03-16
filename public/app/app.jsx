@@ -2,10 +2,7 @@ import React from 'react';
 import Routes from './routes';
 
 const App = () => (
-  <div>
-    App
-    <Routes />
-  </div>
+  <Routes />
 );
 
 export default App;

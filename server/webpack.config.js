@@ -1,13 +1,16 @@
 const path = require('path');
 
-module.exports = {
+const publicDir = path.resolve(__dirname, '../public');
+const distDir = path.resolve(__dirname, '../dist');
+
+const config = {
   devtool: 'source-map',
   entry: [
-    './public/index.jsx',
-    './public/styles/index.scss'
+    path.resolve(publicDir, 'index.jsx'),
+    path.resolve(publicDir, 'styles', 'index.scss')
   ],
   output: {
-    path: path.resolve(__dirname, 'dist/'),
+    path: distDir,
     filename: 'bundle.js'
   },
   module: {
@@ -39,3 +42,5 @@ module.exports = {
     }
   }
 };
+
+module.exports = config;
