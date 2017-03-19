@@ -4,9 +4,9 @@ Basic React boilerplate featuring Webpack bundling and dev middleware, SASS, Rea
 
 ## Table of Contents
 
-1.[Usage](#Usage)
-1.[Requirements](#development)
-	1. [Installing Dependencies](#installing-dependencies)
+[Usage](#Usage)
+[Requirements](#development)
+	[Installing Dependencies](#installing-dependencies)
 
 ## Usage
 
