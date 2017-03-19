@@ -1,8 +1,8 @@
 # React-Webpack Boilerplate
 
-Basic React boilerplate featuring Webpack bundling and dev middleware, SASS, React-Router-Dom v4 and ESLint AirBnB Style Guide support.
+Basic React boilerplate featuring Webpack bundling and dev middleware, SASS, React-Router-Dom v4 and ESLint AirBnB style guide support.
 
-##Table of Contents
+## Table of Contents
 
 1.[Usage](#Usage)
 1.[Requirements](#development)
