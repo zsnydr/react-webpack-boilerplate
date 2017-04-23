@@ -14,10 +14,10 @@
       "requireParamDescription": true,
       "requireReturnDescription": true
     }],
-    "func-names": ["error", "never"],                       # added this line
-    "comma-dangle": ["error", "never"],                     # added this line
-    "no-console": 0,                                        # added this line
-    "react/forbid-prop-types": [0, { "forbid": ["any"] }],  # added this line
+    "func-names": ["error", "never"],
+    "comma-dangle": ["error", "never"],
+    "no-console": 0,
+    "react/forbid-prop-types": [0, { "forbid": ["any"] }],
     "require-jsdoc": ["error", {
       "require": {
         "FunctionDeclaration": false,
